@@ -1,6 +1,6 @@
 # static-onepage-template
 
-Another HTML5/CSS + Bootstrap template to static one-page websites
+Another HTML5/CSS3 template to static one-page websites
 
 Main features:
 - Responsive one-page layout
